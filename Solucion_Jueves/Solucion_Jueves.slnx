@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Cns_Presentaciones/Cns_Presentaciones.csproj" />
+  <Project Path="Lib_Aplicaciones/Lib_Aplicaciones.csproj" />
+  <Project Path="Uni_Pruebas/Uni_Pruebas.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\refint\Lib_Aplicaciones.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\ref\Lib_Aplicaciones.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Solucion_Jueves\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.csproj.AssemblyReference.cache

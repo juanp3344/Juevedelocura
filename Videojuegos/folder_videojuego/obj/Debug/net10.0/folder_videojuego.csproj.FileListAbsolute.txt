@@ -1,0 +1,28 @@
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.deps.json
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.runtimeconfig.json
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.dll
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.pdb
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.csproj.AssemblyReference.cache
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.AssemblyInfoInputs.cache
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.AssemblyInfo.cs
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.csproj.CoreCompileInputs.cache
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.dll
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\refint\folder_videojuego.dll
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.pdb
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.genruntimeconfig.cache
+C:\Users\ephem\OneDrive\Documentos\Videojuegos\folder_videojuego\obj\Debug\net10.0\ref\folder_videojuego.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.runtimeconfig.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\bin\Debug\net10.0\folder_videojuego.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.csproj.AssemblyReference.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\refint\folder_videojuego.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\folder_videojuego.genruntimeconfig.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Videojuegos\folder_videojuego\obj\Debug\net10.0\ref\folder_videojuego.dll

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC50841-6A7D-DCC6-8DC0-6CEEDE8EB11B}|Cns_Presentaciones\\Cns_Presentaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\cns_presentaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC50841-6A7D-DCC6-8DC0-6CEEDE8EB11B}|Cns_Presentaciones\\Cns_Presentaciones.csproj|solutionrelative:cns_presentaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\lib_aplicaciones\\entidades\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\entidades\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\lib_aplicaciones\\logico\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\logico\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\lib_aplicaciones\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\lib_aplicaciones\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD336A4D-801B-1729-A315-B8EADCC53835}|Uni_Pruebas\\Uni_Pruebas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\uni_pruebas\\marcasunitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD336A4D-801B-1729-A315-B8EADCC53835}|Uni_Pruebas\\Uni_Pruebas.csproj|solutionrelative:uni_pruebas\\marcasunitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD336A4D-801B-1729-A315-B8EADCC53835}|Uni_Pruebas\\Uni_Pruebas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\uni_pruebas\\equiposunitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD336A4D-801B-1729-A315-B8EADCC53835}|Uni_Pruebas\\Uni_Pruebas.csproj|solutionrelative:uni_pruebas\\equiposunitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\solucion_jueves\\lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3001BB96-902E-B00E-B0CC-28DDB694320B}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Cns_Presentaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Cns_Presentaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Cns_Presentaciones\\Program.cs",
+              "RelativeToolTip": "Cns_Presentaciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:56:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipos.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Equipos.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Entidades\\Equipos.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Equipos.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Entidades\\Equipos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:36:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:10:17.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Prestamos.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Entidades\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Entidades\\Prestamos.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Entidades\\Prestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:28:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Metodos.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Logico\\Metodos.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Logico\\Metodos.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Logico\\Metodos.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Logico\\Metodos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:27:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarcasUnitarios.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Uni_Pruebas\\MarcasUnitarios.cs",
+              "RelativeDocumentMoniker": "Uni_Pruebas\\MarcasUnitarios.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Uni_Pruebas\\MarcasUnitarios.cs",
+              "RelativeToolTip": "Uni_Pruebas\\MarcasUnitarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:22:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquiposUnitarios.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Uni_Pruebas\\EquiposUnitarios.cs",
+              "RelativeDocumentMoniker": "Uni_Pruebas\\EquiposUnitarios.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Uni_Pruebas\\EquiposUnitarios.cs",
+              "RelativeToolTip": "Uni_Pruebas\\EquiposUnitarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:21:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lib_Aplicaciones.csproj",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Solucion_Jueves\\Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "RelativeToolTip": "Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T01:19:45.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="folder_videojuego/folder_videojuego.csproj" />
+  <Project Path="Videojuegos/Videojuegos.csproj" />
+</Solution>
